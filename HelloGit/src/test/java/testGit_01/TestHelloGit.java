@@ -19,5 +19,6 @@ public class TestHelloGit {
         }
         assert helloGit != null;
         helloGit.helloGit();
+        System.out.println("合并分支....");
     }
 }
